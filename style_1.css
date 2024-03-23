@@ -1,0 +1,170 @@
+#__next > div > div > div.jsx-2687105798.header-wrapper > div{visibility:hidden;}
+
+body
+{
+    background-image:url("https://assets-global.website-files.com/5c69241780da2a1dfc6caa4e/5ef5c91ce232853410e9adb6_BAR_command_attack_radial2_1.gif");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+
+.sidebar-list-item.jsx-1424615656 > a.is-active.jsx-1424615656 {
+    background-color: rgb(2 42 76)!important;
+}
+
+.cellLink-link.jsx-3147125735:hover {
+    color: rgb(59 142 238);
+}
+
+
+a.jsx-338354777.cellLink-link:hover {
+    color: rgb(2 36 65);
+}
+
+.custom-dropdown-control.css-4xy4ym-control {
+    background-color: rgb(2 42 76);
+}
+
+a.jsx-669136943.jsx-1424615656.is-active {
+    background-color: rgb(2 42 76)!important;
+}
+
+
+button.jsx-1735702853.jsx-2070939811.advanced-tags-btn {
+    background-color: rgb(2 42 76);
+}
+
+button.jsx-1735702853.jsx-3320471011.advanced-tags-btn {
+    background-color: rgb(2 42 76);
+}
+
+.jsx-4008542521.jsx-3111695202.input-background {
+    background-color: rgb(2 42 76);
+    border-radius: 20px 0px;
+}
+
+.jsx-4008542521.jsx-1235514216.input-background {
+    background: rgb(2 42 76);
+    border-radius: 20px 0px;
+}
+
+a.jsx-669136943.jsx-551243074.is-active {
+    background-color: rgb(2 42 76)!important;
+}
+
+button.jsx-4129604865.jsx-3871525032.dropdown-button.dropdown-button {
+    background-color: rgb(2 36 65);
+}
+
+
+button.jsx-4129604865.jsx-3871525032.dropdown-button.dropdown-button:hover {
+    background-color: rgb(59 142 238);
+}
+
+.jsx-3193269665.jsx-862053794.premiere-dates-wrapper {
+    background-color: rgb(2 42 76);
+}
+
+.list-button.jsx-3871525032:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(2 36 65)!important;
+}
+
+{
+  font-family: Arial, sans-serif;
+  background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  font-family: Tahoma, Arial, sans-serif;
+  color: #06D85F;
+  margin: 80px 0;
+}
+
+.box {
+  width: 40%;
+  margin: 0 auto;
+  background: rgba(255,255,255,0.2);
+  padding: 35px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  text-align: center;
+}
+
+.button {
+  font-size: 1em;
+  padding: 10px;
+  color: #fff;
+  border: 2px solid #06D85F;
+  border-radius: 20px/50px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+.button:hover {
+  background: #06D85F;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
